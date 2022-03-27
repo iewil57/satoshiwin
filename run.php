@@ -14,7 +14,7 @@ u = "\033[1;35m";
 
 $n = "\n";$n2 = "\n\n";$t = "\t";$r="\r                              \r";
 
-system("termux-open-url  https://www.youtube.com/c/iewil");
+system("termux-open-url https://youtu.be/9MKGNpsKUEY");
 bn();
 cookie:
 $user_agent=Save('User_Agent');
